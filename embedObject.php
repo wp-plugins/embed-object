@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Embed Object
-Plugin URI: http://www.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
+Plugin URI: http://wordpress.org/extend/plugins/embed-object/
 Description: Este plugin permite que você insira objetos flash em seu blog, inclusive passando parâmetros por flashvars.<br />This plugin let's you embed flash objects in your blog and use flashvars.
 Version: 1.0
 Author: Wellington Ribeiro
