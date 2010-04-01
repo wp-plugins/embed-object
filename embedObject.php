@@ -3,7 +3,7 @@
 Plugin Name: Embed Object
 Plugin URI: http://www.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
 Description: Este plugin permite que você insira objetos flash em seu blog, inclusive passando parâmetros por flashvars.<br />This plugin let's you embed flash objects in your blog and use flashvars.
-Version: 1.0
+Version: 1.1
 Author: Wellington Ribeiro
 Author URI: http://www.idealmind.com.br
 
@@ -16,12 +16,12 @@ Class embedObject
 	public static function justDoIt( $content, $debug = false )
 	{
 		self::$debug = $debug;
-		$pattern = "/\[embed:([^\]]+)\]/";
+		$pattern = "/\[embeded:([^\]]+)\]/";
 		preg_match_all( $pattern, $content, $objects );
-		
+
 		if( self::$debug )
 			self::debugArray($objects[0]);
-		
+
 		foreach( $objects[0] as $k=>$object )
 		{
 			$content = str_replace( $object, self::getObject( $objects[1][$k] ), $content );
@@ -86,7 +86,7 @@ Class embedObject
 		if( in_array( "visualizar", $out[1] ) )
 		{
 			$attr = preg_replace( '/visualizar="([^\"]+)"/i', "", $attr );
-			return "[embed: $attr]";
+			return "[embeded: $attr]";
 		}
 		
 		return $object;

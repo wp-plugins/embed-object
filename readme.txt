@@ -1,10 +1,10 @@
-=== Plugin Name ===
+﻿=== Plugin Name ===
 Contributors: wribeiro
 Donate link: http://www.idealmind.com.br
 Tags: youtube wordpress embed, wordpress youtube, wordpress video embed, wordpress video, wordpress flash embed, wordpress flash, wordpress embed plugin, embed youtube, embed video, embed in wordpress, embed object
 Requires at least: 2.0.2
-Tested up to: 2.8.6
-Stable tag: 1.0
+Tested up to: 2.9.2
+Stable tag: 1.1
 
 EN: With this plugin you can easily embed flash objects and YouTube videos in your wordpress blog. You can use it in posts and pages, and you can use any attribute that you want, like FlashVars and wmode, and others.
 
@@ -28,9 +28,9 @@ EN: With this plugin you can easily embed flash objects and YouTube videos in yo
 
 1. Upload `embedObject.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-2. Use something like this `[embed: src="http://www.exemplo.com.br/seuarquivo.swf" width="560" height="340" ]` to embed objects in your posts
+2. Use something like this `[embeded: src="http://www.exemplo.com.br/seuarquivo.swf" width="560" height="340" ]` to embed objects in your posts
 
->The syntax to embed objects is `[embed: attribute1="attribute1 value" attribute2="attribute2 value" ... ]`.
+>The syntax to embed objects is `[embeded: attribute1="attribute1 value" attribute2="attribute2 value" ... ]`.
 
 >**IMPORTANT**
 >Ever use " instead of ' to set the values of an attribute, or the plugin will not work.
@@ -43,9 +43,9 @@ EN: With this plugin you can easily embed flash objects and YouTube videos in yo
 
 1. Faça o upload do arquivo `embedObject.php` para a pasta `/wp-content/plugins/`
 2. Ative o plugin através do menu 'Plugins' do WordPress
-2. Use [embed: src="http://www.exemplo.com.br/seuarquivo.swf" width="560" height="340" ] para inserir os objetos nos seus posts
+2. Use [embeded: src="http://www.exemplo.com.br/seuarquivo.swf" width="560" height="340" ] para inserir os objetos nos seus posts
 
->A sintaxe de uso para inserir iframes é `[embed: attribute1="attribute1 value" attribute2="attribute2 value" ... ]`.
+>A sintaxe de uso para inserir iframes é `[embeded: attribute1="attribute1 value" attribute2="attribute2 value" ... ]`.
 
 >**IMPORTANTE**
 >Sempre use " (aspas duplas) ao invés de ' (aspas simples) para definir os valores dos atrtibutos, pois do contrário, o plugin não vai funcionar.
