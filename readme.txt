@@ -52,6 +52,11 @@ EN: With this plugin you can easily embed flash objects and YouTube videos in yo
 
 == Changelog ==
 
+= 1.1 - 31/03/2010 =
+* Some wordpress update turns the word ‘embed’ as a keyword. This caused instability in the Embed Object Plugin. Then, if you are an old user, you must update the plugin, and change the word ‘embed’ to ‘embeded’ in your posts.
+* Alguma atualização do wordpress tornou a palavra ‘embed’ um keyword, que desestabilizou o plugin. Usuários antigos deste plugin devem mudar a palavra ‘embed’ por ‘embeded’ nos posts para que o plugin funcione corretamente.
+
 = 1.0 - 21/11/2009 =
 * Creation and debugging.
 * Criação e testes.
+
