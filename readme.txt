@@ -1,23 +1,23 @@
 ﻿=== Plugin Name ===
 Contributors: wribeiro
-Donate link: http://www.idealmind.com.br
+Donate link: http://blog.idealmind.com.br
 Tags: youtube wordpress embed, wordpress youtube, wordpress video embed, wordpress video, wordpress flash embed, wordpress flash, wordpress embed plugin, embed youtube, embed video, embed in wordpress, embed object
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 1.1
+Stable tag: 1.2
 
 EN: With this plugin you can easily embed flash objects and YouTube videos in your wordpress blog. You can use it in posts and pages, and you can use any attribute that you want, like FlashVars and wmode, and others.
 
 == Description ==
 
 ##**ENGLISH**
->To see examples of how to use this plugin, please visit http://www.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
+>To see examples of how to use this plugin, please visit http://blog.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
 
 >**Embed Object plugin** - you can easily embed flash objects and YouTube videos in your wordpress blog. You can use it in posts and pages, and you can use any attribute that you want, like FlashVars and wmode, and others.
 
 ##**PORTUGUÊS**
 
->Para ver exemplos de como usar este plugin, visite http://www.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
+>Para ver exemplos de como usar este plugin, visite http://blog.idealmind.com.br/wordpress/embed-object-wordpress-plugin-youtube-flash/
 
 >**Embed Object plugin** - com este plugin você pode inserir objetos flash e vídeos do youTube facilmente em seu blog. Você pode usá-lo em posts e em páginas, com qualquer atributo que você quiser, como FlashVars, para passar parâmetros ara o flash, e wmode, para transparência do background.
 
