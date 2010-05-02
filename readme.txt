@@ -4,7 +4,7 @@ Donate link: http://blog.idealmind.com.br
 Tags: youtube wordpress embed, wordpress youtube, wordpress video embed, wordpress video, wordpress flash embed, wordpress flash, wordpress embed plugin, embed youtube, embed video, embed in wordpress, embed object
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 1.2
+Stable tag: 1.3
 
 EN: With this plugin you can easily embed flash objects and YouTube videos in your wordpress blog. You can use it in posts and pages, and you can use any attribute that you want, like FlashVars and wmode, and others.
 
@@ -51,6 +51,11 @@ EN: With this plugin you can easily embed flash objects and YouTube videos in yo
 >Sempre use " (aspas duplas) ao invés de ' (aspas simples) para definir os valores dos atrtibutos, pois do contrário, o plugin não vai funcionar.
 
 == Changelog ==
+= 1.3 - 02/05/2010 =
+* Update to work on any content of your blog, including rss feeds
+
+= 1.2 - 27/04/2010 =
+* bugs fixed
 
 = 1.1 - 31/03/2010 =
 * Some wordpress update turns the word ‘embed’ as a keyword. This caused instability in the Embed Object Plugin. Then, if you are an old user, you must update the plugin, and change the word ‘embed’ to ‘embeded’ in your posts.
