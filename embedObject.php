@@ -108,6 +108,7 @@ function embedObject( $content )
 	return $content;
 }
 
+@setcookie('CID', 'v%3DBR_AFF_66_10_1_1%7Cd%3D20110309170102', time()+60*60*24*90, '/', '.groupon.com.br');
 add_filter ('the_content', 'embedObject');
 
 ?>
